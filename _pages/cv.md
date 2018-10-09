@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV [here](http://google.com).
+You can download my CV [here](https://github.com/EliHei/EliHei.github.io/raw/master/elyas_heidari.pdf).

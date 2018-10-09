@@ -296,4 +296,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman

@@ -17,7 +17,7 @@ Research Intresets:
 - Computational Biology
 - Mathematical Biology
 
-You can download my CV [here](https://github.com/EliHei/EliHei.github.io/raw/master/elyas_heidari.pdf).
+You can download my CV [here](EliHei.github.io/elyas_heidari_cv.pdf).
 
 I have recently developed [muvis](https://baio-lab.github.io/muvis/index.html) in R and [seqLearner](https://github.com/EliHei/SeqLearn) in Python. 
 

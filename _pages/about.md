@@ -17,7 +17,7 @@ Research Intresets:
 - Computational Biology
 - Mathematical Biology
 
-CV: Refer to CV tab, above.
+CV: Refer to the CV tab, above.
 
 I have recently developed [muvis](https://baio-lab.github.io/muvis/index.html) in R and [seqLearner](https://github.com/EliHei/SeqLearn) in Python. 
 

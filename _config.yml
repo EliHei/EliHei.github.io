@@ -84,7 +84,7 @@ author:
   bio              : "BSc student of Mathematics and Computer Engineering at Sharif University of Technology"
   location         : "Azadi Ave., Tehran, Iran"
   employer         :
-  googlescholar    : ""
+  googlescholar    : 
   email            : "elyas.heidari@embl.de"
   uri              :
   bitbucket        :
@@ -99,13 +99,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : "0000-0002-6004-3999"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :

@@ -23,8 +23,9 @@ My publications:
 + Heidari, E., Balazadeh-Meresht, V., & Sharifi-Zarchi, A. (2018). Multivariate Analysis and Visualization using R Package muvis. arXiv preprint arXiv:1810.12184.
 + ...coming soon!
 
+I have recently developed [muvis](https://baio-lab.github.io/muvis/index.html) in R and [SeqLearner](https://github.com/EliHei/SeqLearn) in Python. 
 
 You can download my CV [here](https://github.com/EliHei/EliHei.github.io/raw/master/CV_elyas_heidari.pdf).
 
-I have recently developed [muvis](https://baio-lab.github.io/muvis/index.html) in R and [seqLearner](https://github.com/EliHei/SeqLearn) in Python. 
+
 

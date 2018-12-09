@@ -19,11 +19,15 @@ My research intresets:
 - Mathematical Biology
 
 My publications:
-+ Heidari, E., Sharifi-Zarchi, A., Shahpasand, K., Siavashani, E. S., Amiri, Z., & Rasooli, M. (2018). Pin1 Regulatory miRNAs as Novel Candidates for Alzheimer's Disease Treatment. bioRxiv, 472985.
-+ Heidari, E., Balazadeh-Meresht, V., & Sharifi-Zarchi, A. (2018). Multivariate Analysis and Visualization using R Package muvis. arXiv preprint arXiv:1810.12184.
++ **Heidari, E.**, Sharifi-Zarchi, A., Shahpasand, K., Siavashani, E. S., Amiri, Z., & Rasooli, M. (2018). Pin1 Regulatory miRNAs as Novel Candidates for Alzheimer's Disease Treatment. bioRxiv, 472985.
++ **Heidari, E.**, Balazadeh-Meresht, V., & Sharifi-Zarchi, A. (2018). Multivariate Analysis and Visualization using R Package muvis. arXiv preprint arXiv:1810.12184.
++ **Heidari, E.**, Balazadeh, V., Ahmadi, N., Sharifi-Zarchi, A., Sadr-Bafghi, M., & Mirzaei, M. (2018). A Novel Workflow for Helth Survey Analysis: Results on the Yazd Health Study (YaHS). https://doi.org/10.13140/rg.2.2.10716.44166
 + ...coming soon!
 
-I have recently developed [muvis](https://baio-lab.github.io/muvis/index.html) in R and [SeqLearner](https://github.com/EliHei/SeqLearn) in Python. 
+Software Developed:
+
++ [muvis](https://baio-lab.github.io/muvis/index.html), for multivariate data analysis and visualization in R
++ [SeqLearner](https://github.com/EliHei/SeqLearn), for semisupervised/supervised sequence learning in python 
 
 You can download my CV [here](https://github.com/EliHei/EliHei.github.io/raw/master/CV_elyas_heidari.pdf).
 

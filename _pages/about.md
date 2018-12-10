@@ -21,7 +21,7 @@ My research intresets:
 My publications:
 + **Heidari, E.**, Sharifi-Zarchi, A., Shahpasand, K., Siavashani, E. S., Amiri, Z., & Rasooli, M. (2018). Pin1 Regulatory miRNAs as Novel Candidates for Alzheimer's Disease Treatment. bioRxiv, 472985.
 + **Heidari, E.**, Balazadeh-Meresht, V., & Sharifi-Zarchi, A. (2018). Multivariate Analysis and Visualization using R Package muvis. arXiv preprint arXiv:1810.12184.
-+ **Heidari, E.**, Balazadeh, V., Ahmadi, N., Sharifi-Zarchi, A., Sadr-Bafghi, M., & Mirzaei, M. (2018). A Novel Workflow for Helth Survey Analysis: Results on the Yazd Health Study (YaHS). https://doi.org/10.13140/rg.2.2.10716.44166
++ **Heidari, E.**, Balazadeh-Meresht, V., Ahmadi, N., Sharifi-Zarchi, A., Mirzaei, M., & Sadr-Bafghi, M. (2018). A Novel Workflow for Helth Survey Analysis: Results on the Yazd Health Study (YaHS). Cold Spring Harbor Laboratory. https://doi.org/10.1101/491142
 + ...coming soon!
 
 Software Developed:
